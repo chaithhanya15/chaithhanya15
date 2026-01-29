@@ -45,21 +45,6 @@ Open to opportunities where I can contribute to **modern platform engineering an
 
 ---
 
-## 📊 Skills Matrix
-
-| Domain | Technologies |
-|--------|-------------|
-| **Cloud Platforms** | AWS, Azure, GCP |
-| **Containerization** | Docker, Kubernetes |
-| **Infrastructure as Code** | Terraform, CloudFormation |
-| **CI/CD** | Jenkins, GitHub Actions, ArgoCD |
-| **Configuration Management** | Ansible |
-| **Observability** | Prometheus, Grafana, OpenTelemetry |
-| **Languages** | Python, Bash |
-
----
-
-
 
 ## 🏗️ Featured Projects
 
