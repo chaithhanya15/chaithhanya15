@@ -55,34 +55,11 @@ Open to opportunities where I can contribute to **modern platform engineering an
 | **CI/CD** | Jenkins, GitHub Actions, ArgoCD |
 | **Configuration Management** | Ansible |
 | **Observability** | Prometheus, Grafana, OpenTelemetry |
-| **Security Practices** | IAM Governance, Compliance, Vulnerability Reduction |
 | **Languages** | Python, Bash |
-| **Operational Excellence** | Incident Response, Reliability Engineering, Cost Optimization |
 
 ---
 
-## 💼 Professional Experience
 
-### **Project Engineer — Wipro Limited**
-📅 Oct 2024 – May 2025  
-
-- Engineered CI/CD pipelines improving delivery efficiency by **25%**
-- Developed Terraform modules enabling **30% faster infrastructure provisioning**
-- Strengthened IAM governance aligning with security audit standards  
-- Implemented observability with Prometheus & Grafana reducing incident response time  
-- Maintained **99.9% system reliability** through proactive health monitoring  
-
----
-
-### **Apprentice — Sify Technologies**
-📅 Jul 2023 – Jul 2024  
-
-- Supported cloud operations ensuring **99.9% SLA adherence**
-- Automated configuration workflows using Ansible  
-- Embedded security controls into DevOps processes reducing vulnerabilities  
-- Improved troubleshooting efficiency through documentation and knowledge sharing  
-
----
 
 ## 🏗️ Featured Projects
 
@@ -106,8 +83,4 @@ Open to opportunities where I can contribute to **modern platform engineering an
 👉 Designed secure multi-tier infrastructure reducing vulnerabilities by **30%** and optimizing costs by **25%**.
 
 ---
-
-# 🔷 DevSecOps Pipeline Architecture
-
-## Option A — Clean Professional Diagram (Recommended)
 
