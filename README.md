@@ -1,15 +1,113 @@
-## Hi there 👋......
+<h1 align="center">Chaithhanya Sai</h1>
+<h3 align="center">Cloud Engineer | DevOps Engineer | DevSecOps Enthusiast</h3>
 
+<p align="center">
+Building secure, scalable cloud platforms with automation, reliability, and security-first engineering.
+</p>
 
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ......
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...........
-- 📫 How to reach me: ...
-- 😄 Pronouns: ....
-- ⚡ Fun fact: ...
--->
+Engineer with **2+ years of experience** designing, automating, and securing cloud-native infrastructure across AWS environments. Skilled in Infrastructure as Code, Kubernetes orchestration, CI/CD engineering, and observability.
+
+Focused on delivering:
+
+✔ Scalable infrastructure  
+✔ Secure deployment pipelines  
+✔ High system reliability  
+✔ Automated operations  
+
+Open to opportunities where I can contribute to **modern platform engineering and DevSecOps initiatives.**
+
+---
+
+## 🧠 Core Expertise
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud"/>
+
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash"/>
+
+</p>
+
+---
+
+## 📊 Skills Matrix
+
+| Domain | Technologies |
+|--------|-------------|
+| **Cloud Platforms** | AWS, Azure, GCP |
+| **Containerization** | Docker, Kubernetes |
+| **Infrastructure as Code** | Terraform, CloudFormation |
+| **CI/CD** | Jenkins, GitHub Actions, ArgoCD |
+| **Configuration Management** | Ansible |
+| **Observability** | Prometheus, Grafana, OpenTelemetry |
+| **Security Practices** | IAM Governance, Compliance, Vulnerability Reduction |
+| **Languages** | Python, Bash |
+| **Operational Excellence** | Incident Response, Reliability Engineering, Cost Optimization |
+
+---
+
+## 💼 Professional Experience
+
+### **Project Engineer — Wipro Limited**
+📅 Oct 2024 – May 2025  
+
+- Engineered CI/CD pipelines improving delivery efficiency by **25%**
+- Developed Terraform modules enabling **30% faster infrastructure provisioning**
+- Strengthened IAM governance aligning with security audit standards  
+- Implemented observability with Prometheus & Grafana reducing incident response time  
+- Maintained **99.9% system reliability** through proactive health monitoring  
+
+---
+
+### **Apprentice — Sify Technologies**
+📅 Jul 2023 – Jul 2024  
+
+- Supported cloud operations ensuring **99.9% SLA adherence**
+- Automated configuration workflows using Ansible  
+- Embedded security controls into DevOps processes reducing vulnerabilities  
+- Improved troubleshooting efficiency through documentation and knowledge sharing  
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔐 DevSecOps Kubernetes (EKS)
+**Tech:** Terraform, Kubernetes, Docker, Jenkins, ArgoCD, OpenTelemetry  
+
+👉 Automated secure Kubernetes deployments with container image scanning and GitOps workflows — improving release efficiency by **50%** while strengthening platform security.
+
+---
+
+### ☁️ AWS ECS Serverless Architecture
+**Tech:** AWS ECS Fargate, CodePipeline, CloudWatch  
+
+👉 Built a highly scalable serverless container platform reducing deployment time by **70%** while maintaining **99.9% availability**.
+
+---
+
+### 🏛️ AWS Three-Tier Architecture
+**Tech:** VPC, RDS, CloudWatch, Disaster Recovery  
+
+👉 Designed secure multi-tier infrastructure reducing vulnerabilities by **30%** and optimizing costs by **25%**.
+
+---
+
+# 🔷 DevSecOps Pipeline Architecture
+
+## Option A — Clean Professional Diagram (Recommended)
+
