@@ -1,5 +1,5 @@
 <h1 align="center">Chaithhanya Sai</h1>
-<h3 align="center">Cloud Engineer | DevOps Engineer | DevSecOps Enthusiast</h3>
+<h3 align="center">Cloud Engineer | DevSecOps Enthusiast</h3>
 
 <p align="center">
 Building secure, scalable cloud platforms with automation, reliability, and security-first engineering.
@@ -49,7 +49,7 @@ Open to opportunities where I can contribute to **modern platform engineering an
 ## 🏗️ Featured Projects
 
 ### 🔐 DevSecOps Kubernetes (EKS)
-**Tech:** Terraform, Kubernetes, Docker, Jenkins, ArgoCD, OpenTelemetry  
+**Tech:** Terraform, Kubernetes, Docker, Jenkins, ArgoCD
 
 👉 Automated secure Kubernetes deployments with container image scanning and GitOps workflows — improving release efficiency by **50%** while strengthening platform security.
 
