@@ -9,7 +9,7 @@ Building secure, scalable cloud platforms with automation, reliability, and secu
 
 ## 🚀 About Me
 
-Engineer with **2+ years of experience** designing, automating, and securing cloud-native infrastructure across AWS environments. Skilled in Infrastructure as Code, Kubernetes orchestration, CI/CD engineering, and observability.
+Engineer with **2 years of experience** in designing, automating, and securing cloud-native infrastructure across AWS environments. Skilled in Infrastructure as Code, Kubernetes orchestration, CI/CD engineering, and observability.
 
 Focused on delivering:
 
