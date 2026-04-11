@@ -23,37 +23,8 @@ Open to opportunities where I can contribute to **modern platform engineering an
 
 ## 🛠️ Skills
 
-### ☁️ Cloud Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" title="AWS"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="Azure" title="Azure"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="GCP" title="GCP"/>
-</p>
-
-### ⚙️ Infrastructure as Code & Config Management
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=terraform" height="50" alt="Terraform" title="Terraform"/>
-  <img src="https://skillicons.dev/icons?i=ansible" height="50" alt="Ansible" title="Ansible"/>
-</p>
-
-### 🐳 Containers & Orchestration
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes" title="Kubernetes"/>
-</p>
-
-### 🔄 CI/CD & GitOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="Jenkins" title="Jenkins"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="GitHub Actions" title="GitHub Actions"/>
-  <img src="https://skillicons.dev/icons?i=argocd" height="50" alt="ArgoCD" title="ArgoCD"/>
-</p>
-
-### 💻 Scripting & Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="Bash" title="Bash"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,jenkins,githubactions,argocd,python,bash,linux" />
 </p>
 
 ---
