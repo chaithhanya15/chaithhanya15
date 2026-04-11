@@ -24,7 +24,7 @@ Open to opportunities where I can contribute to **modern platform engineering an
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,jenkins,githubactions,argocd,python,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,jenkins,githubactions,git,prometheus,grafana,python,bash,linux" />
 </p>
 
 ---
