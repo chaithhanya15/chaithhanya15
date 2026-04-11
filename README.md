@@ -24,7 +24,10 @@ Open to opportunities where I can contribute to **modern platform engineering an
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,jenkins,githubactions,ArgoCD,git,prometheus,grafana,python,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,jenkins,githubactions,git,prometheus,grafana,python,bash,linux" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 </p>
 
 ---
