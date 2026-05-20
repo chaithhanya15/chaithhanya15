@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/chaithhanya15">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%7C+DevSecOps+Enthusiast;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Docker;Building+Secure+%26+Scalable+Cloud+Platforms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%7C+DevSecOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Docker;Building+Secure+%26+Scalable+Cloud+Platforms" alt="Typing SVG" />
   </a>
 </p>
 
